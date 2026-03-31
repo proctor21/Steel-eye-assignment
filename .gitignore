@@ -30,3 +30,6 @@ data/extracted/
 *.DS_Store
 *.vscode/
 .idea/
+
+data/*.zip
+data/extracted/
